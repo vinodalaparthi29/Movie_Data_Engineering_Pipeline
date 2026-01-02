@@ -40,20 +40,6 @@ Here are a few early insights we generated:
 
 ---
 
-## Example Visuals
-
-*(Screenshots or plots can be added later once you generate them — for now, you can mention this section)*
-
----
-
-##  Team Members
-
-- Vinod Alaparthi  
-- R. Akshaya
-- Ch, Harshitha
-
----
-
 ## Folder Structure
 
 Movie_Data_Engineering_Pipeline/
